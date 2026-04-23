@@ -2,7 +2,7 @@ let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumAleatorio();
 let tentativas = 1;
-//teste 1gto
+//teste 02
 // let titulo = document.querySelector('h1'); //função é um trecho de codigo que é responsavel por uma função especifica, funcionalidade ou ação 
 // titulo.innerHTML = 'Bem vindo ao jogo do número secreto!';
 
